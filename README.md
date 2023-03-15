@@ -15,7 +15,7 @@ docker-compose up
 #### To install the application, follow these steps:
 1. Clone the repository: 
 ```
-git clone https://github.com/Imanm02/Aiport-Backend-WebDev-HW2.git
+git clone https://github.com/webdevelopmentteam1401/HW3-Devops.git
 ```
 
 2. Start the Docker containers (in Q4 folder): 
